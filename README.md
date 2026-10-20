@@ -18,5 +18,7 @@ Tools Used
 
 Microsoft Excel, PivotTables, Slicers, and Excel Charts.
 
-Dashboard Preview
+## Dashboard Preview
+
+![Excel Sales Dashboard](./EXCEL_PROJECT_2.png)
 
